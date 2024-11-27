@@ -1,5 +1,9 @@
 ## OSS 수업 관련
 
+안녕하세요 현재 부경대 컴퓨터공학전공을 다니는 개발자 입니다.
+저는 프론트엔드에서 UX, UI를 최적화에 관심을 가지고 있습니다.
+기술은 HTML/CSS/JS, React, C++, 웹보안 및 툴 사용을 가지고 있습니다.
+
 <!--
 **yukkwae/yukkwae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
